@@ -1,0 +1,9 @@
+{
+  "extends": "./tslint.default.json",
+  "files": [ "./src/**/*" ],
+  "rules": {
+    "member-access": false,
+    "no-for-in-array": false,
+    "restrict-plus-operands": false
+  }
+}
