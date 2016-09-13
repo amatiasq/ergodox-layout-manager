@@ -1,0 +1,38 @@
+<div class="edition" *ngIf="selected">
+  <select [(ngModel)]="selected.key" (ngModelChange)="save()" required>
+    <option [ngValue]="null">Select...</option>
+
+    <option *ngFor="let key of layerKeys" [ngValue]="key">
+      {{ selected.getLabelFor(key) }}
+    </option>
+
+    <option *ngFor="let key of keyboard" [ngValue]="key">
+      {{ selected.getLabelFor(key) }}
+    </option>
+  </select>
+
+  <ul>
+    <li><input type="checkbox" [(ngModel)]="selected.isPressOnly" (ngModelChange)="save()"> Keep pressed
+    <li><input type="checkbox" [(ngModel)]="selected.isShift" (ngModelChange)="save()"> Shift
+    <li><input type="checkbox" [(ngModel)]="selected.isAlt" (ngModelChange)="save()"> Alt
+    <li><input type="checkbox" [(ngModel)]="selected.isCtrl" (ngModelChange)="save()"> Ctrl
+    <li><input type="checkbox" [(ngModel)]="selected.isGui" (ngModelChange)="save()"> GUI
+  </ul>
+
+  <button type="button" (click)="apply(selected)">All layers</button>
+  <button type="button" (click)="generate()">Generate!</button>
+</div>
+
+
+<mq-ergodox-layout
+  *ngFor="let layer of layers"
+  [model]="layer"
+  [selected]="selected"
+  (key-selected)="onKeySelected($event)">
+</mq-ergodox-layout>
+
+<div class="add-layer">
+  <button type="button" (click)="layers.push({ left: [], right: [] })">
+    Add layer
+  </button>
+</div>

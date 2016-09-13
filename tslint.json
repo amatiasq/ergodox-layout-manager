@@ -2,6 +2,7 @@
   "extends": "./tslint.default.json",
   "files": [ "./src/**/*" ],
   "rules": {
+    "interface-name": [false],
     "member-access": false,
     "no-for-in-array": false,
     "restrict-plus-operands": false

@@ -1,0 +1,1178 @@
+[
+  {
+    "left": [
+      {
+        "key": {
+          "code": 41,
+          "label": "ESC"
+        }
+      },
+      {
+        "key": {
+          "code": 30,
+          "label": "1",
+          "shift": "!",
+          "alt": "|"
+        }
+      },
+      {
+        "key": {
+          "code": 31,
+          "label": "2",
+          "shift": "\"",
+          "alt": "@"
+        }
+      },
+      {
+        "key": {
+          "code": 32,
+          "label": "3",
+          "shift": "·",
+          "alt": "#"
+        }
+      },
+      {
+        "key": {
+          "code": 33,
+          "label": "4",
+          "shift": "$"
+        }
+      },
+      {
+        "key": {
+          "code": 34,
+          "label": "5",
+          "shift": "%"
+        }
+      },
+      {
+        "key": {
+          "label": "L_2"
+        },
+        "isPressOnly": true
+      },
+      {
+        "key": {
+          "code": 43,
+          "label": "TAB"
+        }
+      },
+      {
+        "key": {
+          "code": 20,
+          "label": "q",
+          "shift": "Q"
+        }
+      },
+      {
+        "key": {
+          "code": 26,
+          "label": "w",
+          "shift": "W"
+        }
+      },
+      {
+        "key": {
+          "code": 8,
+          "label": "e",
+          "shift": "E",
+          "alt": "€"
+        }
+      },
+      {
+        "key": {
+          "code": 21,
+          "label": "r",
+          "shift": "R"
+        }
+      },
+      {
+        "key": {
+          "code": 23,
+          "label": "t",
+          "shift": "T"
+        }
+      },
+      {
+        "key": {
+          "label": "L_1"
+        },
+        "isPressOnly": true
+      },
+      null,
+      {
+        "key": {
+          "code": 4,
+          "label": "a",
+          "shift": "A"
+        }
+      },
+      {
+        "key": {
+          "code": 22,
+          "label": "s",
+          "shift": "S"
+        }
+      },
+      {
+        "key": {
+          "code": 7,
+          "label": "d",
+          "shift": "D"
+        }
+      },
+      {
+        "key": {
+          "code": 9,
+          "label": "f",
+          "shift": "F"
+        }
+      },
+      {
+        "key": {
+          "code": 10,
+          "label": "g",
+          "shift": "G"
+        }
+      },
+      {
+        "key": {
+          "code": 225,
+          "label": "[⇧]"
+        }
+      },
+      {
+        "key": {
+          "code": 29,
+          "label": "z",
+          "shift": "Z"
+        }
+      },
+      {
+        "key": {
+          "code": 27,
+          "label": "x",
+          "shift": "X"
+        }
+      },
+      {
+        "key": {
+          "code": 6,
+          "label": "c",
+          "shift": "C"
+        }
+      },
+      {
+        "key": {
+          "code": 25,
+          "label": "v",
+          "shift": "V"
+        }
+      },
+      {
+        "key": {
+          "code": 5,
+          "label": "b",
+          "shift": "B"
+        }
+      },
+      {
+        "key": {
+          "label": "L_0"
+        },
+        "isPressOnly": true
+      },
+      {
+        "key": {
+          "code": 224,
+          "label": "[⌃]"
+        }
+      },
+      {
+        "key": {
+          "code": 226,
+          "label": "[⌥]"
+        }
+      },
+      null,
+      null,
+      {
+        "key": {
+          "label": "L_1"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "code": 42,
+          "label": "[⌫]"
+        }
+      },
+      {
+        "key": {
+          "code": 227,
+          "label": "[⌘]"
+        }
+      },
+      {
+        "key": {
+          "code": 41,
+          "label": "ESC"
+        }
+      }
+    ],
+    "right": [
+      {
+        "key": {
+          "label": "L_2"
+        },
+        "isPressOnly": true
+      },
+      {
+        "key": {
+          "code": 35,
+          "label": "6",
+          "shift": "&",
+          "alt": "¬"
+        }
+      },
+      {
+        "key": {
+          "code": 36,
+          "label": "7",
+          "shift": "/"
+        }
+      },
+      {
+        "key": {
+          "code": 37,
+          "label": "8",
+          "shift": "("
+        }
+      },
+      {
+        "key": {
+          "code": 38,
+          "label": "9",
+          "shift": ")"
+        }
+      },
+      {
+        "key": {
+          "code": 39,
+          "label": "0",
+          "shift": "="
+        }
+      },
+      {
+        "key": {
+          "code": 102,
+          "label": "Power"
+        }
+      },
+      {
+        "key": {
+          "label": "L_1"
+        },
+        "isPressOnly": true
+      },
+      {
+        "key": {
+          "code": 28,
+          "label": "y",
+          "shift": "Y"
+        }
+      },
+      {
+        "key": {
+          "code": 24,
+          "label": "u",
+          "shift": "U"
+        }
+      },
+      {
+        "key": {
+          "code": 12,
+          "label": "i",
+          "shift": "I"
+        }
+      },
+      {
+        "key": {
+          "code": 18,
+          "label": "o",
+          "shift": "O"
+        }
+      },
+      {
+        "key": {
+          "code": 19,
+          "label": "p",
+          "shift": "P"
+        }
+      },
+      null,
+      {
+        "key": {
+          "code": 11,
+          "label": "h",
+          "shift": "H"
+        }
+      },
+      {
+        "key": {
+          "code": 13,
+          "label": "j",
+          "shift": "J"
+        }
+      },
+      {
+        "key": {
+          "code": 14,
+          "label": "k",
+          "shift": "K"
+        }
+      },
+      {
+        "key": {
+          "code": 15,
+          "label": "l",
+          "shift": "L"
+        }
+      },
+      {
+        "key": {
+          "code": 51,
+          "label": "ñ",
+          "shift": "Ñ"
+        }
+      },
+      {
+        "key": {
+          "code": 40,
+          "label": "[↩]"
+        }
+      },
+      {
+        "key": {
+          "label": "L_0"
+        },
+        "isPressOnly": true
+      },
+      {
+        "key": {
+          "code": 17,
+          "label": "n",
+          "shift": "N"
+        }
+      },
+      {
+        "key": {
+          "code": 16,
+          "label": "m",
+          "shift": "M"
+        }
+      },
+      {
+        "key": {
+          "code": 54,
+          "label": ",",
+          "shift": ";"
+        }
+      },
+      {
+        "key": {
+          "code": 55,
+          "label": ".",
+          "shift": ":"
+        }
+      },
+      {
+        "key": {
+          "code": 56,
+          "label": "-",
+          "shift": "_"
+        }
+      },
+      {
+        "key": {
+          "code": 225,
+          "label": "[⇧]"
+        }
+      },
+      {
+        "key": {
+          "code": 81,
+          "label": "[↓]"
+        }
+      },
+      {
+        "key": {
+          "code": 82,
+          "label": "[↑]"
+        }
+      },
+      {
+        "key": {
+          "code": 80,
+          "label": "[←]"
+        }
+      },
+      {
+        "key": {
+          "code": 79,
+          "label": "[→]"
+        }
+      },
+      {
+        "key": {
+          "code": 226,
+          "label": "[⌥]"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "code": 43,
+          "label": "TAB"
+        }
+      },
+      {
+        "key": {
+          "code": 40,
+          "label": "[↩]"
+        }
+      },
+      {
+        "key": {
+          "code": 44,
+          "label": "SPACE"
+        }
+      }
+    ]
+  },
+  {
+    "left": [
+      null,
+      {
+        "key": {
+          "code": 58,
+          "label": "F1"
+        }
+      },
+      {
+        "key": {
+          "code": 59,
+          "label": "F2"
+        }
+      },
+      {
+        "key": {
+          "code": 60,
+          "label": "F3"
+        }
+      },
+      {
+        "key": {
+          "code": 61,
+          "label": "F4"
+        }
+      },
+      {
+        "key": {
+          "code": 62,
+          "label": "F5"
+        }
+      },
+      {
+        "key": {
+          "code": 63,
+          "label": "F6"
+        }
+      },
+      {
+        "key": {
+          "code": 43,
+          "label": "TAB"
+        }
+      },
+      {
+        "key": {
+          "code": 30,
+          "label": "1",
+          "shift": "!",
+          "alt": "|"
+        },
+        "isAlt": true
+      },
+      {
+        "key": {
+          "code": 31,
+          "label": "2",
+          "shift": "\"",
+          "alt": "@"
+        },
+        "isAlt": true
+      },
+      {
+        "key": {
+          "code": 37,
+          "label": "8",
+          "shift": "("
+        },
+        "isShift": true
+      },
+      {
+        "key": {
+          "code": 38,
+          "label": "9",
+          "shift": ")"
+        },
+        "isShift": true
+      },
+      {
+        "key": {
+          "code": 32,
+          "label": "3",
+          "shift": "·",
+          "alt": "#"
+        },
+        "isAlt": true
+      },
+      {
+        "key": {
+          "label": "L_1"
+        },
+        "isPressOnly": true
+      },
+      null,
+      {
+        "key": {
+          "code": 47,
+          "label": "`",
+          "shift": "^",
+          "alt": "["
+        }
+      },
+      {
+        "key": {
+          "code": 45,
+          "label": "'",
+          "shift": "?"
+        }
+      },
+      {
+        "key": {
+          "code": 52,
+          "label": "´",
+          "shift": "¨",
+          "alt": "{"
+        },
+        "isAlt": true
+      },
+      {
+        "key": {
+          "code": 49,
+          "label": "ç",
+          "alt": "}"
+        },
+        "isAlt": true
+      },
+      {
+        "key": {
+          "code": 48,
+          "label": "+",
+          "shift": "*",
+          "alt": "]"
+        }
+      },
+      {
+        "key": {
+          "code": 225,
+          "label": "[⇧]"
+        }
+      },
+      {
+        "key": {
+          "code": 100,
+          "label": "<",
+          "shift": ">"
+        }
+      },
+      {
+        "key": {
+          "code": 100,
+          "label": "<",
+          "shift": ">"
+        },
+        "isShift": true
+      },
+      {
+        "key": {
+          "code": 47,
+          "label": "`",
+          "shift": "^",
+          "alt": "["
+        },
+        "isAlt": true
+      },
+      {
+        "key": {
+          "code": 48,
+          "label": "+",
+          "shift": "*",
+          "alt": "]"
+        },
+        "isAlt": true
+      },
+      {
+        "key": {
+          "code": 49,
+          "label": "ç",
+          "alt": "}"
+        }
+      },
+      {
+        "key": {
+          "label": "L_0"
+        },
+        "isPressOnly": true
+      },
+      {
+        "key": {
+          "code": 224,
+          "label": "[⌃]"
+        }
+      },
+      {
+        "key": {
+          "code": 226,
+          "label": "[⌥]"
+        }
+      },
+      {
+        "key": {
+          "code": 53,
+          "label": "º",
+          "shift": "ª",
+          "alt": "\\"
+        }
+      },
+      {
+        "key": {
+          "code": 53,
+          "label": "º",
+          "shift": "ª",
+          "alt": "\\"
+        },
+        "isAlt": true
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "code": 42,
+          "label": "[⌫]"
+        }
+      },
+      {
+        "key": {
+          "code": 227,
+          "label": "[⌘]"
+        }
+      },
+      {
+        "key": {
+          "code": 41,
+          "label": "ESC"
+        }
+      }
+    ],
+    "right": [
+      {
+        "key": {
+          "code": 64,
+          "label": "F7"
+        }
+      },
+      {
+        "key": {
+          "code": 65,
+          "label": "F8"
+        }
+      },
+      {
+        "key": {
+          "code": 66,
+          "label": "F9"
+        }
+      },
+      {
+        "key": {
+          "code": 67,
+          "label": "F10"
+        }
+      },
+      {
+        "key": {
+          "code": 68,
+          "label": "F11"
+        }
+      },
+      {
+        "key": {
+          "code": 69,
+          "label": "F12"
+        }
+      },
+      null,
+      {
+        "key": {
+          "label": "L_1"
+        },
+        "isPressOnly": true
+      },
+      {
+        "key": {
+          "code": 74,
+          "label": "[↖]"
+        }
+      },
+      {
+        "key": {
+          "code": 75,
+          "label": "[⇞]"
+        }
+      },
+      {
+        "key": {
+          "code": 82,
+          "label": "[↑]"
+        }
+      },
+      {
+        "key": {
+          "code": 78,
+          "label": "[⇟]"
+        }
+      },
+      null,
+      null,
+      {
+        "key": {
+          "code": 80,
+          "label": "[←]"
+        },
+        "isGui": true
+      },
+      {
+        "key": {
+          "code": 80,
+          "label": "[←]"
+        }
+      },
+      {
+        "key": {
+          "code": 81,
+          "label": "[↓]"
+        }
+      },
+      {
+        "key": {
+          "code": 79,
+          "label": "[→]"
+        }
+      },
+      {
+        "key": {
+          "code": 79,
+          "label": "[→]"
+        },
+        "isGui": true
+      },
+      {
+        "key": {
+          "code": 40,
+          "label": "[↩]"
+        }
+      },
+      {
+        "key": {
+          "label": "L_0"
+        },
+        "isPressOnly": true
+      },
+      null,
+      {
+        "key": {
+          "code": 80,
+          "label": "[←]"
+        },
+        "isAlt": true
+      },
+      {
+        "key": {
+          "code": 77,
+          "label": "[↘]"
+        }
+      },
+      {
+        "key": {
+          "code": 79,
+          "label": "[→]"
+        },
+        "isAlt": true
+      },
+      null,
+      {
+        "key": {
+          "code": 225,
+          "label": "[⇧]"
+        }
+      },
+      {
+        "key": {
+          "code": 128,
+          "label": "V_Up"
+        }
+      },
+      {
+        "key": {
+          "code": 129,
+          "label": "V_Down"
+        }
+      },
+      {
+        "key": {
+          "code": 127,
+          "label": "Mute"
+        }
+      },
+      null,
+      {
+        "key": {
+          "code": 226,
+          "label": "[⌥]"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "code": 43,
+          "label": "TAB"
+        }
+      },
+      {
+        "key": {
+          "code": 40,
+          "label": "[↩]"
+        }
+      },
+      {
+        "key": {
+          "code": 44,
+          "label": "SPACE"
+        }
+      }
+    ]
+  },
+  {
+    "left": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "code": 43,
+          "label": "TAB"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "label": "L_1"
+        },
+        "isPressOnly": true
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "code": 225,
+          "label": "[⇧]"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "label": "L_0"
+        },
+        "isPressOnly": true
+      },
+      {
+        "key": {
+          "code": 224,
+          "label": "[⌃]"
+        }
+      },
+      {
+        "key": {
+          "code": 226,
+          "label": "[⌥]"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "code": 42,
+          "label": "[⌫]"
+        }
+      },
+      {
+        "key": {
+          "code": 227,
+          "label": "[⌘]"
+        }
+      },
+      {
+        "key": {
+          "code": 41,
+          "label": "ESC"
+        }
+      }
+    ],
+    "right": [
+      null,
+      null,
+      {
+        "key": {
+          "code": 83,
+          "label": "NUM",
+          "shift": "CLEAR"
+        }
+      },
+      {
+        "key": {
+          "code": 84,
+          "label": "N/"
+        }
+      },
+      {
+        "key": {
+          "code": 85,
+          "label": "N*"
+        }
+      },
+      {
+        "key": {
+          "code": 86,
+          "label": "N-"
+        }
+      },
+      null,
+      {
+        "key": {
+          "label": "L_1"
+        },
+        "isPressOnly": true
+      },
+      null,
+      {
+        "key": {
+          "code": 95,
+          "label": "N7",
+          "shift": "N_↖"
+        }
+      },
+      {
+        "key": {
+          "code": 96,
+          "label": "N8",
+          "shift": "N_↑"
+        }
+      },
+      {
+        "key": {
+          "code": 97,
+          "label": "N9",
+          "shift": "N_⇞"
+        }
+      },
+      {
+        "key": {
+          "code": 87,
+          "label": "N+"
+        }
+      },
+      null,
+      null,
+      {
+        "key": {
+          "code": 92,
+          "label": "N4",
+          "shift": "N_←"
+        }
+      },
+      {
+        "key": {
+          "code": 93,
+          "label": "N5"
+        }
+      },
+      {
+        "key": {
+          "code": 94,
+          "label": "N6",
+          "shift": "N_→"
+        }
+      },
+      {
+        "key": {
+          "code": 87,
+          "label": "N+"
+        }
+      },
+      {
+        "key": {
+          "code": 40,
+          "label": "[↩]"
+        }
+      },
+      {
+        "key": {
+          "label": "L_0"
+        },
+        "isPressOnly": true
+      },
+      null,
+      {
+        "key": {
+          "code": 89,
+          "label": "N1",
+          "shift": "N_↘"
+        }
+      },
+      {
+        "key": {
+          "code": 90,
+          "label": "N2",
+          "shift": "N_↓"
+        }
+      },
+      {
+        "key": {
+          "code": 91,
+          "label": "N3",
+          "shift": "N_⇟"
+        }
+      },
+      {
+        "key": {
+          "code": 88,
+          "label": "N_↩"
+        }
+      },
+      {
+        "key": {
+          "code": 225,
+          "label": "[⇧]"
+        }
+      },
+      {
+        "key": {
+          "code": 98,
+          "label": "N0",
+          "shift": "N_INSERT"
+        }
+      },
+      {
+        "key": {
+          "code": 98,
+          "label": "N0",
+          "shift": "N_INSERT"
+        }
+      },
+      {
+        "key": {
+          "code": 99,
+          "label": "N.",
+          "shift": "N_DELETE"
+        }
+      },
+      {
+        "key": {
+          "code": 88,
+          "label": "N_↩"
+        }
+      },
+      {
+        "key": {
+          "code": 226,
+          "label": "[⌥]"
+        }
+      },
+      null,
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "code": 43,
+          "label": "TAB"
+        }
+      },
+      {
+        "key": {
+          "code": 40,
+          "label": "[↩]"
+        }
+      },
+      {
+        "key": {
+          "code": 44,
+          "label": "SPACE"
+        }
+      }
+    ]
+  }
+]

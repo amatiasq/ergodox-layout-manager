@@ -1,0 +1,13 @@
+<div *ngIf="model?.isAssigned && model.hasModifiers">
+  <sub class="modifier" [hidden]="!model.isShift">shift</sub>
+  <sub class="modifier" [hidden]="!model.isAlt">alt</sub>
+  <sub class="modifier" [hidden]="!model.isCtrl">ctrl</sub>
+  <sub class="modifier" [hidden]="!model.isGui">cmd</sub>
+  {{ model.label }}
+</div>
+
+<div *ngIf="model?.isAssigned && !model.hasModifiers">
+  <sup class="shift">{{ model.key.shift }}</sup>
+  <sub class="alt">{{ model.key.alt }}</sub>
+  {{ model.key.label }}
+</div>

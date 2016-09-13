@@ -1,0 +1,63 @@
+@size: 50px;
+@gap: 5px;
+@extended: (@size * 3 + @gap * 2) / 2 + 1;
+
+:host {
+  margin: @gap;
+  width: @size;
+  height: @size;
+  cursor: pointer;
+  border: 1px solid black;
+  text-align: center;
+  line-height: @size;
+  overflow: hidden;
+  position: relative;
+
+  &:hover {
+    background-color: #eeeeee;
+  }
+
+  &.long {
+    width: @extended;
+  }
+
+  &.tall {
+    height: @extended;
+    line-height: @extended;
+  }
+
+  &.double {
+    height: @size * 2 + @gap * 2;
+    line-height: @size * 2 + @gap * 2;
+  }
+
+  &.keep-pressed {
+    border-width: 2px;
+  }
+
+  > div {
+    height: 100%;
+  }
+}
+
+.shift {
+  position: absolute;
+  width: 100%;
+  top: -15px;
+  left: 0;
+}
+
+.alt {
+  position: absolute;
+  left: 65%;
+}
+
+.modifier {
+  position: absolute;
+  font-size: 0.5em;
+  line-height: initial;
+  text-align: center;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}

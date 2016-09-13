@@ -1,0 +1,23 @@
+<div class="main">
+  <div class="column" *ngFor="let column of config.main">
+    <mq-ergodox-key
+      *ngFor="let key of column"
+      [class.selected]="selected === model[key.id]"
+      [model]="model[key.id]"
+      (click)="onKeySelected(key)"
+      shape="{{ key.shape }}">
+    </mq-ergodox-key>
+  </div>
+</div>
+
+<div class="thumb">
+  <div class="column" *ngFor="let column of config.thumb">
+    <mq-ergodox-key
+      *ngFor="let key of column"
+      [class.selected]="selected === model[key.id]"
+      [model]="model[key.id]"
+      (click)="onKeySelected(key)"
+      shape="{{ key.shape }}">
+    </mq-ergodox-key>
+  </div>
+</div>

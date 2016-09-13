@@ -1,0 +1,61 @@
+:host {
+  display: flex;
+  flex-direction: row;
+  padding-bottom: 30px;
+}
+
+.main,
+.thumb {
+  display: flex;
+  flex-direction: row;
+}
+
+.thumb {
+  margin-top: 212px;
+  align-items: flex-end;
+}
+
+.column {
+  display: flex;
+  flex-direction: column;
+}
+
+
+:host.left {
+  padding-right: 30px;
+  flex-direction: row;
+
+  .main,
+  .thumb {
+    flex-direction: row;
+  }
+
+  .thumb {
+    margin-left: -85px;
+    transform: rotate(26deg);
+  }
+
+  .column:first-child {
+    align-items: flex-end;
+  }
+}
+
+
+:host.right {
+  padding-left: 30px;
+  flex-direction: row-reverse;
+
+  .main,
+  .thumb {
+    flex-direction: row-reverse;
+  }
+
+  .thumb {
+    margin-right: -85px;
+    transform: rotate(-26deg);
+  }
+}
+
+mq-ergodox-key.selected {
+  background-color: #dddddd;
+}
