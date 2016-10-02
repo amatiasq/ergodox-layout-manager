@@ -205,6 +205,7 @@ export default [
     code: 0x33,
     label: 'ñ',
     shift: 'Ñ',
+    alt: '~',
   }, {
     code: 0x34,
     label: '´',
