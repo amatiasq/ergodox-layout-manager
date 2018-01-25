@@ -45,12 +45,7 @@
           "shift": "%"
         }
       },
-      {
-        "key": {
-          "label": "L_2"
-        },
-        "isPressOnly": true
-      },
+      null,
       {
         "key": {
           "code": 43,
@@ -95,7 +90,8 @@
       },
       {
         "key": {
-          "label": "L_1"
+          "label": "L_0",
+          "layer": 0
         },
         "isPressOnly": true
       },
@@ -178,7 +174,8 @@
       },
       {
         "key": {
-          "label": "L_0"
+          "label": "L_1",
+          "layer": 1
         },
         "isPressOnly": true
       },
@@ -194,28 +191,37 @@
           "label": "[⌥]"
         }
       },
-      null,
-      null,
       {
-        "key": {
-          "label": "L_1"
-        }
+        "key": "0: null"
       },
       null,
-      null,
-      null,
-      null,
-      null,
-      {
-        "key": {
-          "code": 42,
-          "label": "[⌫]"
-        }
-      },
       {
         "key": {
           "code": 227,
           "label": "[⌘]"
+        }
+      },
+      {
+        "key": {
+          "label": "L_3",
+          "layer": 3
+        },
+        "isPressOnly": true
+      },
+      null,
+      null,
+      null,
+      null,
+      {
+        "key": {
+          "label": "L_1",
+          "layer": 1
+        }
+      },
+      {
+        "key": {
+          "code": 42,
+          "label": "[⌫]"
         }
       },
       {
@@ -226,12 +232,7 @@
       }
     ],
     "right": [
-      {
-        "key": {
-          "label": "L_2"
-        },
-        "isPressOnly": true
-      },
+      null,
       {
         "key": {
           "code": 35,
@@ -276,7 +277,8 @@
       },
       {
         "key": {
-          "label": "L_1"
+          "label": "L_0",
+          "layer": 0
         },
         "isPressOnly": true
       },
@@ -359,7 +361,8 @@
       },
       {
         "key": {
-          "label": "L_0"
+          "label": "L_1",
+          "layer": 1
         },
         "isPressOnly": true
       },
@@ -549,7 +552,8 @@
       },
       {
         "key": {
-          "label": "L_1"
+          "label": "L_0",
+          "layer": 0
         },
         "isPressOnly": true
       },
@@ -582,6 +586,7 @@
         "key": {
           "code": 49,
           "label": "ç",
+          "shift": "Ç",
           "alt": "}"
         },
         "isAlt": true
@@ -602,16 +607,18 @@
       },
       {
         "key": {
-          "code": 100,
-          "label": "<",
-          "shift": ">"
+          "code": 53,
+          "label": "º",
+          "shift": "ª",
+          "alt": "\\"
         }
       },
       {
         "key": {
-          "code": 100,
-          "label": "<",
-          "shift": ">"
+          "code": 53,
+          "label": "º",
+          "shift": "ª",
+          "alt": "\\"
         },
         "isShift": true
       },
@@ -635,14 +642,17 @@
       },
       {
         "key": {
-          "code": 49,
-          "label": "ç",
-          "alt": "}"
-        }
+          "code": 51,
+          "label": "ñ",
+          "shift": "Ñ"
+        },
+        "isAlt": false,
+        "isGui": true
       },
       {
         "key": {
-          "label": "L_0"
+          "label": "L_1",
+          "layer": 1
         },
         "isPressOnly": true
       },
@@ -660,32 +670,39 @@
       },
       {
         "key": {
-          "code": 53,
-          "label": "º",
-          "shift": "ª",
-          "alt": "\\"
+          "code": 100,
+          "label": "<",
+          "shift": ">"
         }
       },
       {
         "key": {
-          "code": 53,
-          "label": "º",
-          "shift": "ª",
-          "alt": "\\"
+          "code": 100,
+          "label": "<",
+          "shift": ">"
         },
-        "isAlt": true
+        "isAlt": false,
+        "isShift": true
+      },
+      {
+        "key": {
+          "code": 227,
+          "label": "[⌘]"
+        }
+      },
+      {
+        "key": {
+          "label": "L_3",
+          "layer": 3
+        },
+        "isPressOnly": true
       },
       null,
       null,
       null,
       null,
-      null,
-      null,
       {
-        "key": {
-          "code": 42,
-          "label": "[⌫]"
-        }
+        "key": "0: null"
       },
       {
         "key": {
@@ -737,10 +754,16 @@
           "label": "F12"
         }
       },
-      null,
       {
         "key": {
-          "label": "L_1"
+          "code": 102,
+          "label": "Power"
+        }
+      },
+      {
+        "key": {
+          "label": "L_0",
+          "layer": 0
         },
         "isPressOnly": true
       },
@@ -810,7 +833,8 @@
       },
       {
         "key": {
-          "label": "L_0"
+          "label": "L_1",
+          "layer": 1
         },
         "isPressOnly": true
       },
@@ -914,7 +938,8 @@
       null,
       {
         "key": {
-          "label": "L_1"
+          "label": "L_0",
+          "layer": 0
         },
         "isPressOnly": true
       },
@@ -937,7 +962,8 @@
       null,
       {
         "key": {
-          "label": "L_0"
+          "label": "L_1",
+          "layer": 1
         },
         "isPressOnly": true
       },
@@ -953,18 +979,31 @@
           "label": "[⌥]"
         }
       },
+      {
+        "key": "0: null"
+      },
       null,
-      null,
-      null,
-      null,
+      {
+        "key": {
+          "code": 227,
+          "label": "[⌘]"
+        }
+      },
+      {
+        "key": {
+          "label": "L_3",
+          "layer": 3
+        },
+        "isPressOnly": true
+      },
       null,
       null,
       null,
       null,
       {
         "key": {
-          "code": 42,
-          "label": "[⌫]"
+          "label": "L_1",
+          "layer": 1
         }
       },
       {
@@ -1008,10 +1047,16 @@
           "label": "N-"
         }
       },
-      null,
       {
         "key": {
-          "label": "L_1"
+          "code": 102,
+          "label": "Power"
+        }
+      },
+      {
+        "key": {
+          "label": "L_0",
+          "layer": 0
         },
         "isPressOnly": true
       },
@@ -1079,7 +1124,8 @@
       },
       {
         "key": {
-          "label": "L_0"
+          "label": "L_1",
+          "layer": 1
         },
         "isPressOnly": true
       },
